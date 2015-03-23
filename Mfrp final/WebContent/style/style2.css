@@ -1,0 +1,17 @@
+h2
+    {
+      font-family: sans-Serif;
+      color: #990000
+    }
+
+    
+ body
+     {
+       padding-top: 25px;
+       background-color: #330000;
+       background-image: url("error2.jpg");
+       float: right;
+       background-repeat: no-repeat;
+       background-position: center top;
+       margin-right:30px;
+     } 
