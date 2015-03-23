@@ -26,7 +26,6 @@ function BackToMenu()
 <font color="CCFF66">
 <br><br><br><br><br><br>
 <h4>&copy Organisation Management System</h4>
-<h4>&reg Yogesh Amruta Hima Tejaswani</h4>
 </font>
 </div>
 </center>
